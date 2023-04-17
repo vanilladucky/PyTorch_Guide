@@ -15,7 +15,7 @@
   * [Simple Classification using PyTorch](https://github.com/vanilladucky/PyTorch_Guide/blob/main/Tutorial/PyTorch%20Neural%20Network%20Classification.ipynb)
 
 ## [**Project**](https://github.com/vanilladucky/PyTorch_Guide/tree/main/Projects)
-  * About [GANs](https://github.com/vanilladucky/PyTorch_Guide/blob/main/Projects/About%20DCGAN.ipynb)
+  * [About GANs](https://github.com/vanilladucky/PyTorch_Guide/blob/main/Projects/About%20DCGAN.ipynb)
   * [Transformations using PyTorch](https://github.com/vanilladucky/PyTorch_Guide/blob/main/Projects/Transformation%20%26%20Augmentation.ipynb)
 
 #### If any of you guys have any improvements to contribute, please feel free to do so. 
